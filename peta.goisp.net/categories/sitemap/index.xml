@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitemap on Petasearch | An online blogsite</title>
+    <link>https://peta.goisp.net/categories/sitemap/</link>
+    <description>Recent content in Sitemap on Petasearch | An online blogsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2021 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://peta.goisp.net/categories/sitemap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Create Google Sitemap in Ubuntu 20.04</title>
+      <link>https://peta.goisp.net/blogs/create-google-sitemap-xml-in-linux-terminal/</link>
+      <pubDate>Sat, 27 Feb 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/create-google-sitemap-xml-in-linux-terminal/</guid>
+      <description>Today we will learn how to create Google Sitemap. Google Sitemap is very important because you need to do page ranking with Google Sitemap.</description>
+    </item>
+    
+    <item>
+      <title>How To Create Google Sitemap in Ubuntu 20.04 in Bengali</title>
+      <link>https://peta.goisp.net/blogs/create-google-sitemap-xml-in-linux-terminal-bn/</link>
+      <pubDate>Sat, 27 Feb 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/create-google-sitemap-xml-in-linux-terminal-bn/</guid>
+      <description>আজকে আমরা জানবো কিভাবে গুগল সাইটম্যাপ তৈরী করা যায়।
+গুগল সাইটম্যাপ খুবই গুরুত্বপূর্ণ কারণ গুগল সাইটম্যাপ দিয়ে পেজ rank করারনো জন্য দরকার। সাইটম্যাপ হলো এক ধরণের ম্যাপিং যেখানে আপনার ওয়েবসাইটের সকল পেজ এর লিংক থাকবে। খুব সহজে সাইটম্যাপ তৈরী তোরা যায় লিনাক্স অপারেটিং সিস্টেম এ।</description>
+    </item>
+    
+  </channel>
+</rss>

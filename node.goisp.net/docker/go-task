@@ -1,0 +1,14 @@
+#!/www/server/panel/pyenv/bin/python
+#coding: utf-8
+# +-------------------------------------------------------------------
+# | 宝塔Linux面板
+# +-------------------------------------------------------------------
+# | Copyright (c) 2015-2099 Pagoda software(http://goisp.net) All rights reserved.
+# +-------------------------------------------------------------------
+# | Author: hwliang <hwl@goisp.net>
+# +-------------------------------------------------------------------
+
+import os,sys
+os.chdir('/www/server/panel')
+import task
+task.main()

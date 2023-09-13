@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>JavaScript Variables</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="JavaScript Variables">
+  
+  <meta name="author" content="petasearch">
+  <meta name="generator" content="Hugo 0.72.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://peta.goisp.net/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://peta.goisp.net/plugins/themify-icons/themify-icons.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://peta.goisp.net/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://peta.goisp.net/images/psh.png " type="image/x-icon">
+  <link rel="icon" href="https://peta.goisp.net/images/psh.png " type="image/x-icon">
+
+  
+  
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'G-BGYG9XEFF3');
+  </script>
+  
+  
+
+</head><body>
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="/images/psh.png " alt="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="fixed-top navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+      <a class="navbar-brand"href="https://peta.goisp.net/"><img class="img-fluid" src="/images/psh.png" alt="Petasearch | An online blogsite"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu h3"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://peta.goisp.net/"> Home </a>
+          </li>
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/domain">Domain</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/hosting">Hosting</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/marketing">Marketing</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/design">Design</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/dev">Dev</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/security">Security</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/help-center">Help Center</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/account">Account</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://peta.goisp.net/video">Video</a>
+            </li>
+            
+          
+        </ul>
+        
+        <!-- search -->
+        <div class="search">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://peta.goisp.net/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation --> <div class="py-5 d-none d-lg-block"></div> 
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto block shadow mb-5">
+        <h2>JavaScript Variables</h2>
+        <div class="mb-3 post-meta">
+          <a href="/author/petasearch">Petasearch</a>,
+          07/11/2019, 
+          <a href="/categories/meta-data">Meta data</a>
+          
+        </div>
+        
+        <img src="/images/post/fn.png" class="img-fluid w-100 mb-4" alt="JavaScript Variables">
+        
+        <div class="content mb-5">
+          <p>JavaScript Variables</p>
+<p>A variable is a &ldquo;named storage&rdquo; for data. In JavaScript we can use variables to store user data, goods information, messages etc. To create a variable in JavaScript, we use &ldquo;let&rdquo; keyword</p>
+<p>let play;
+play = &lsquo;Please visit YouTube.com&rsquo;; //string stored</p>
+<p>The string is now saved into the memory area associated with the variable. We can access it using the variable name:</p>
+<pre><code>let message;
+message = 'Hello!';
+
+alert(message); // shows the variable content
+</code></pre><p>Declare multip[le variable in one line:</p>
+<pre><code>let user = 'John', age = 25, message = 'Hello';
+</code></pre><p>The multiline variant is a bit longer, but easier to read:</p>
+<pre><code>let user = 'John';
+let age = 25;
+let message = 'Hello';
+</code></pre><p>Some people also define multiple variables in this multiline style:</p>
+<pre><code>let user = 'John',
+  age = 25,
+  message = 'Hello';
+</code></pre><p>…Or even in the “comma-first” style:</p>
+<pre><code>let user = 'John'
+  , age = 25
+  , message = 'Hello';
+
+</code></pre><p>In older, use of keyword &ldquo;var&rdquo; insteadf of &ldquo;let&rdquo;</p>
+<pre><code>var message = 'Hello';
+</code></pre><p>Variable naming
+There are two limitations on variable names in JavaScript:</p>
+<p>The name must contain only letters, digits, or the symbols $ and _.
+The first character must not be a digit.
+Examples of valid names:</p>
+<pre><code>let userName;
+let test123;
+</code></pre><p>What’s interesting – the dollar sign &lsquo;$&rsquo; and the underscore &lsquo;_&rsquo; can also be used in names. They are regular symbols, just like letters, without any special meaning.</p>
+<p>These names are valid:</p>
+<pre><code>let $ = 1; // declared a variable with the name &quot;$&quot;
+let _ = 2; // and now a variable with the name &quot;_&quot;
+
+alert($ + _); // 3
+</code></pre><p>Constants
+To declare a constant (unchanging) variable, use const instead of let:</p>
+<pre><code>const myBirthday = '18.04.1982';
+</code></pre><p>Variables declared using const are called “constants”. They cannot be reassigned. An attempt to do so would cause an error:</p>
+<pre><code>const myBirthday = '18.04.1982';
+
+myBirthday = '01.01.2001'; // error, can't reassign the constant!
+</code></pre><p>Uppercase constants</p>
+<pre><code>const COLOR_RED = &quot;#F00&quot;;
+const COLOR_GREEN = &quot;#0F0&quot;;
+const COLOR_BLUE = &quot;#00F&quot;;
+const COLOR_ORANGE = &quot;#FF7F00&quot;;
+
+// ...when we need to pick a color
+let color = COLOR_ORANGE;
+alert(color); // #FF7F00
+</code></pre><p>We can declare variables to store data by using the var, let, or const keywords.</p>
+
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+<footer class="py-4 bg-light border-top">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
+        <a href="https://peta.goisp.net/" class="d-block pb-3"><img src="/images/psh.png" class="img-fluid" alt="Petasearch | An online blogsite"></a>
+      </div>
+      <div class="col-lg-4 text-center mb-4 mb-lg-0">
+        <ul class="list-inline mb-0">
+          
+          <li class="list-inline-item"><a class="text-dark d-block p-2" href="https://peta.goisp.net/contact">Contact</a></li>
+          
+          <li class="list-inline-item"><a class="text-dark d-block p-2" href="https://peta.goisp.net/tools">Tools</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
+        <ul class="list-inline social-icon mb-0">
+          
+          <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
+          
+          <li class="list-inline-item"><a href="#"><i class="ti-twitter-alt"></i></a></li>
+          
+          <li class="list-inline-item"><a href="#"><i class="ti-github"></i></a></li>
+          
+          <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <span>© 2021 <a href="https://peta.goisp.net">We Are Peta Engine</a> All Rights Reserved</span>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script>
+  var indexURL = "https://peta.goisp.net/index.json"
+</script>
+
+
+<!-- JS Plugins -->
+
+<script src="https://peta.goisp.net/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://peta.goisp.net/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://peta.goisp.net/plugins/search/fuse.min.js"></script>
+
+<script src="https://peta.goisp.net/plugins/search/mark.js"></script>
+
+<script src="https://peta.goisp.net/plugins/search/search.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://peta.goisp.net/js/script.min.js"></script>
+
+<!-- google analitycs -->
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'G-BGYG9XEFF3', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+
+</html>

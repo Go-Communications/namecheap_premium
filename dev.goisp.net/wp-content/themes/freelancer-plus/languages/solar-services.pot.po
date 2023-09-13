@@ -1,0 +1,427 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: Solar Services\n"
+"POT-Creation-Date: 2022-12-01 20:24+2\n"
+"PO-Revision-Date: 2022-12-01 20:24+2\n"
+"Last-Translator: \n"
+"Language-Team: classictemplate <support@theclassictemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template-home-page.php:43
+msgid "Contact"
+msgstr ""
+
+#: customizer.php:33
+msgid "Logo Width"
+msgstr ""
+
+#: customizer.php:50
+msgid "Enable Site Title"
+msgstr ""
+
+#: customizer.php:64
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer.php:75
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: customizer.php:89
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer.php:97
+msgid "Theme Options Panel"
+msgstr ""
+
+#: customizer.php:102
+msgid "Manage Site Layout Section "
+msgstr ""
+
+#: customizer.php:103
+msgid "<p class=\"sec-title\">Manage Site Layout Section</p>"
+msgstr ""
+
+#: customizer.php:114
+msgid "Check to Box Layout"
+msgstr ""
+
+#: customizer.php:125
+msgid "Check to show preloader"
+msgstr ""
+
+#: customizer.php:136
+msgid "Check to show topbar"
+msgstr ""
+
+#: customizer.php:142
+msgid "Manage Header Section"
+msgstr ""
+
+#: customizer.php:143
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: customizer.php:155
+msgid "Check To Show Sticky Header"
+msgstr ""
+
+#: customizer.php:167
+msgid "Add Email Address"
+msgstr ""
+
+#: customizer.php:179
+msgid "Add Office Timming"
+msgstr ""
+
+#: customizer.php:191
+msgid "Add Phone Number"
+msgstr ""
+
+#: customizer.php:203
+msgid "Add Call Text"
+msgstr ""
+
+#: customizer.php:217
+msgid "Top BG Color"
+msgstr ""
+
+#: customizer.php:232
+msgid "Email Icon Color"
+msgstr ""
+
+#: customizer.php:246
+msgid "Email Text Color"
+msgstr ""
+
+#: customizer.php:260
+msgid "Time Icon Color"
+msgstr ""
+
+#: customizer.php:274
+msgid "Time Text Color"
+msgstr ""
+
+#: customizer.php:288
+msgid "Bottom BG Color"
+msgstr ""
+
+#: customizer.php:302
+msgid "Menus Color"
+msgstr ""
+
+#: customizer.php:316
+msgid "Menus Hover Color"
+msgstr ""
+
+#: customizer.php:330
+msgid "SubMenus BG Color"
+msgstr ""
+
+#: customizer.php:344
+msgid "SubMenus Color"
+msgstr ""
+
+#: customizer.php:358
+msgid "SubMenus Hover Color"
+msgstr ""
+
+#: customizer.php:373
+msgid "Phone Icon Color"
+msgstr ""
+
+#: customizer.php:387
+msgid "Phone No. Color"
+msgstr ""
+
+#: customizer.php:402
+msgid "Phone Text Color"
+msgstr ""
+
+#: customizer.php:408
+msgid "Manage Social media Section"
+msgstr ""
+
+#: customizer.php:409
+msgid "<p class=\"sec-title\">Manage Social media Section</p>"
+msgstr ""
+
+#: customizer.php:422
+msgid "Facebook Link"
+msgstr ""
+
+#: customizer.php:436
+msgid "Facebook Color"
+msgstr ""
+
+#: customizer.php:449
+msgid "Twitter Link"
+msgstr ""
+
+#: customizer.php:463
+msgid "Twitter Color"
+msgstr ""
+
+#: customizer.php:475
+msgid "Linkdin Link"
+msgstr ""
+
+#: customizer.php:489
+msgid "Linkdin Color"
+msgstr ""
+
+#: customizer.php:501
+msgid "Instagram Link"
+msgstr ""
+
+#: customizer.php:515
+msgid "Instagram Color"
+msgstr ""
+
+#: customizer.php:527
+msgid "Youtube Link"
+msgstr ""
+
+#: customizer.php:541
+msgid "Youtube Color"
+msgstr ""
+
+#: customizer.php:555
+msgid "Icon Hover Color"
+msgstr ""
+
+#: customizer.php:561
+msgid "Manage Slider Section"
+msgstr ""
+
+#: customizer.php:562
+msgid ""
+"<p class=\"sec-title\">Manage Slider Section</p> Select Category from the "
+"Dropdowns for slider, Also use the given image dimension (1200 x 450)."
+msgstr ""
+
+#: customizer.php:585
+msgid "Add Button Text"
+msgstr ""
+
+#: customizer.php:599 customizer.php:794
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: customizer.php:614 customizer.php:853
+msgid "Title Color"
+msgstr ""
+
+#: customizer.php:628 customizer.php:867
+msgid "Description Color"
+msgstr ""
+
+#: customizer.php:642
+msgid "Button Text Color"
+msgstr ""
+
+#: customizer.php:656
+msgid "Button BG Color"
+msgstr ""
+
+#: customizer.php:670
+msgid "Button BG Hover Color"
+msgstr ""
+
+#: customizer.php:684
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: customizer.php:698
+msgid "Opacity Color 1"
+msgstr ""
+
+#: customizer.php:711
+msgid "Opacity 2 Color"
+msgstr ""
+
+#: customizer.php:725
+msgid "Arrow Color"
+msgstr ""
+
+#: customizer.php:739
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: customizer.php:745
+msgid "Manage Services Section"
+msgstr ""
+
+#: customizer.php:746
+msgid ""
+"<p class=\"sec-title\">Manage Services Section</p> Select Pages from the "
+"dropdown for Services."
+msgstr ""
+
+#: customizer.php:759
+msgid "Add Main Title"
+msgstr ""
+
+#: customizer.php:771
+msgid "Add Main Text"
+msgstr ""
+
+#: customizer.php:809 customizer.php:968
+msgid "Heading Color"
+msgstr ""
+
+#: customizer.php:824
+msgid "SubHeading Color"
+msgstr ""
+
+#: customizer.php:839
+msgid "Box BG Color"
+msgstr ""
+
+#: customizer.php:873
+msgid "Manage Post Section"
+msgstr ""
+
+#: customizer.php:885
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:886
+msgid ""
+"This option work for blog page, blog single page, archive page and search "
+"page."
+msgstr ""
+
+#: customizer.php:889
+msgid "Full"
+msgstr ""
+
+#: customizer.php:890
+msgid "Left"
+msgstr ""
+
+#: customizer.php:891
+msgid "Right"
+msgstr ""
+
+#: customizer.php:892
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:893
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:894
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:904
+msgid "Post Description Length"
+msgstr ""
+
+#: customizer.php:907
+msgid "No Content"
+msgstr ""
+
+#: customizer.php:908
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer.php:909
+msgid "Full Content"
+msgstr ""
+
+#: customizer.php:915
+msgid "Manage Footer Section"
+msgstr ""
+
+#: customizer.php:916
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: customizer.php:927
+msgid "Copyright Line"
+msgstr ""
+
+#: customizer.php:939
+msgid "Link"
+msgstr ""
+
+#: customizer.php:954
+msgid "BG Color"
+msgstr ""
+
+#: customizer.php:982
+msgid "Text Color"
+msgstr ""
+
+#: customizer.php:996 customizer.php:1010
+msgid "List Color"
+msgstr ""
+
+#: customizer.php:1025
+msgid "List Hover Color"
+msgstr ""
+
+#: customizer.php:1039
+msgid "List Border Color"
+msgstr ""
+
+#: customizer.php:1054
+msgid "CopyRight Color"
+msgstr ""
+
+#: customizer.php:1068
+msgid "CopyRight Hover Color"
+msgstr ""
+
+#: customizer.php:1082
+msgid "CopyRight BG Color"
+msgstr ""
+
+#: customizer.php:1091
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: customizer.php:1099
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer.php:1173
+msgid "Select your desired font for the headings."
+msgstr ""
+
+#: customizer.php:1183
+msgid "Select your desired font for the body."
+msgstr ""
+
+#: footer.php:30
+msgid ""
+"https://www.theclassictemplates.com/themes/free-solar-energy-woocommerce-"
+"themes/"
+msgstr ""
+
+#: footer.php:27
+msgid ""
+"https://www.theclassictemplates.com/themes/free-freelancer-wordpress-theme/"
+msgstr ""
+
+#: footer.php:27
+msgid "Freelancer WordPress Theme"
+msgstr ""
+
+#: footer.php:33
+msgid "TOP"
+msgstr ""

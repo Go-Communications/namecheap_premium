@@ -1,0 +1,18 @@
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_1" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 132
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_1" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 135
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_1" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 138
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_2" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 132
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_2" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 135
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_2" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 138
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_3" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 132
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_3" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 135
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_3" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 138
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_4" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 132
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_4" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 135
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_4" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 138
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_5" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 132
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_5" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 135
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "inner_alt_5" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/controls.php on line 138
+[01-Jun-2023 09:34:24 UTC] PHP Warning:  Undefined array key "mobile_user_agents_parsed" in /home/ronibd0/dev.goisp.net/wp-content/plugins/header-footer/admin/options.php on line 394
+[19-Jun-2023 07:26:27 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/ronibd0/dev.goisp.net/wp-admin/includes/class-theme-upgrader.php on line 160
+[19-Jun-2023 08:03:55 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/ronibd0/dev.goisp.net/wp-admin/includes/class-theme-upgrader.php on line 160

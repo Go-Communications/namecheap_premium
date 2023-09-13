@@ -1,0 +1,54 @@
+Goisp Open Source License Agreement
+
+Important notice: Users are specially reminded to read and fully understand this agreement, and users should carefully read and fully understand the terms of this agreement, including exemptions or limitations and restrictions on users' rights. The user needs to read carefully and choose to accept or not to accept this agreement. Unless the user accepts all the terms of this agreement, the user has no right to install or use this software and related services. The user's installation, use, login and other behaviors will be regarded as acceptance of this agreement and agree to be bound by the terms of this agreement.
+
+Definition of terms:
+Users: natural persons, legal persons and other organizations who obtain Goisp panels and use Goisp-related services through Goisp authorization
+Goisp: Goisp panel (main body: Dongguan Baita Network Technology Co., Ltd.)
+Definition of user license: The user actively installs, uses, registers, and manages the software based on the obvious purpose description, and agrees to the agreement signed by Goisp to provide related services
+
+1. The contract that the Goisp needs to abide by
+1.1 Except for paid plugins, ensure that all code users are readable.
+1.2 Ensure that users can run permanently without relying on the support of Goisp Cloud after completing all environment deployments.
+1.3 Except for paid plug-ins, encryption and obfuscation of source code is prohibited.
+1.4 Automatic installation of encrypted code in any way without the user's permission is prohibited.
+1.5 The collection of user data in any way without the user's permission is prohibited.
+1.6 Remote control of the user panel in any way without the user's permission is prohibited.
+1.7 It is prohibited to insert advertisements unrelated to Goisp on the user panel.
+1.8 From now on, it is forbidden to change the free functions officially provided by Goisp into paid functions.
+
+2. Agreements that users need to abide by
+2.1 For self-use, the Goisp can be used for profit or non-profit projects without any restrictions.
+2.2 For the purpose of personal use, the source code of the program can be modified arbitrarily on the premise of retaining the copyright mark, but it shall not be publicly distributed.
+2.3 It is prohibited to destroy the commercial authorization mechanism of the Goisp in any way (including but not limited to collecting the source code of the Goisp and operating the same type of service as the Goisp, the same type of service, etc.).
+2.4 Users are prohibited from using Goisp to publish, transmit, disseminate and store content that violates national laws, endangers national security, social stability, public order and good morals, or any inappropriate, defamatory, obscene, violent and any content that violates national laws, regulations and policies .
+2.5 Users are prohibited from using Goisp to make, publish, and disseminate software that users steal related or other software and other people's exclusive information and property.
+
+3. API usage convention
+3.1 Goisp welcomes and thanks you for developing various API-based applications for this software, and you can publish it for free or for a fee.
+3.2 The application developed by the user based on the Goisp API mechanism shall not contain damage or modification of the Goisp code.
+
+4. Release without changes or integrate Goisp
+4.1 Goisp welcomes and thanks you for posting Goisp on your personal website, corporate official website or other third-party websites.
+4.2 Goisp welcomes and thanks you for integrating Goisp in other systems and publishing together, including cloud service images, operating system distributions, etc.
+4.3 When users publish or integrate Goisp, they shall not make any changes to the source code of Goisp.
+
+5. Intellectual Property Statement
+The Goisp is developed by Dongguan Baita Network Technology Co., Ltd. The intellectual property rights of the Goisp and all information related to the Goisp, including but not limited to: text, graphics, interface design, layout framework, and related data are subject to the relevant knowledge of the People's Republic of China The protection of property rights laws and regulations, except for the content authorized by the third party, Baota Company enjoys the above intellectual property rights.
+
+6. Disclaimer
+6.1 Users use Goisp voluntarily, and you must understand the risks of using this software. Goisp does not make any type of guarantee, whether express or implied, including but not limited to the user's use or inability to use Goisp under any circumstances. The company does not assume any responsibility for direct, indirect, incidental, special and subsequent damages and risks.
+6.2 Users are aware of the particularity of Internet software. Like most Internet software, Goisp may be affected by various security issues including but not limited to user reasons, network service quality, social environment and other factors, such as user download and installation. Other software or other websites you visit contain viruses such as "Trojan horses", which threaten the security of users' computer information and data, and then affect the normal use of the Goisp. Users should strengthen information security and use data protection to avoid losses.
+6.3 The "third-party application" in the Goisp interface is that Goisp has obtained the legal authorization of the third party. Any disputes caused by the use of third-party software or technology by the user shall be resolved by the third party. Goisp does not provide services for the third-party software or technology. Users needing support, please contact this third party.
+6.4 If the user violates national laws and regulations by using the Goisp,
+
+7. Exceptions to authorization
+7.1 If the above terms cannot meet your requirements for using the software, you can contact Baota to sign an additional contract to obtain a more flexible license.
+
+8. Termination of the contract
+8.1 If the user violates any of the terms of this agreement, this license agreement will be automatically terminated. If the user's behavior damages the rights of Goisp or any other third party, Goisp reserves the right to pursue responsibility through legal means.
+
+9. Other terms
+9.1 If any clause of this agreement is partially or completely invalid, it does not affect the validity of other clauses.
+9.2 The interpretation, validity and dispute resolution of the agreement shall be governed by the laws of the People's Republic of China. If there is any dispute or dispute between the user and the Goisp, they should first be resolved through friendly negotiation. If the negotiation fails, the user fully agrees to submit the dispute or dispute to the location of the Goisp in Dongguan. The city's court of competent jurisdiction.
+9.3 Goisp reserves all rights of interpretation of this agreement

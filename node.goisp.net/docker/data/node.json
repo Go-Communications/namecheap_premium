@@ -1,0 +1,32 @@
+[
+  {
+    "protocol": "http://",
+    "address": "node.goisp.net",
+    "port": "80",
+    "ping": 500
+  },
+  {
+    "protocol": "http://",
+    "address": "128.1.164.196",
+    "port": "80",
+    "ping": 500
+  },
+  {
+    "protocol": "http://",
+    "address": "45.76.53.20",
+    "port": "80",
+    "ping": 500
+  },
+  {
+    "protocol": "http://",
+    "address": "dg2.goisp.net",
+    "port": "80",
+    "ping": 500
+  },
+  {
+    "protocol": "http://",
+    "address": "dg1.goisp.net",
+    "port": "80",
+    "ping": 500
+  }
+]

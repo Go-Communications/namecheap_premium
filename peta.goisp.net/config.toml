@@ -1,0 +1,158 @@
+############################ Default configuration #########################
+baseURL = "https://peta.goisp.net/"
+languageCode = "en-us"
+# site title 
+title = "Petasearch | An online blogsite"
+# theme
+theme = "petasearch-theme"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "domain"
+name = "Domain"
+weight = 1
+
+[[menu.main]]
+URL = "hosting"
+name = "Hosting"
+weight = 2
+
+[[menu.main]]
+URL = "marketing"
+name = "Marketing"
+weight = 3
+
+[[menu.main]]
+URL = "design"
+name = "Design"
+weight = 4
+
+[[menu.main]]
+URL = "dev"
+name = "Dev"
+weight = 5
+
+[[menu.main]]
+URL = "security"
+name = "Security"
+weight = 6
+
+[[menu.main]]
+URL = "help-center"
+name = "Help Center"
+weight = 7
+
+[[menu.main]]
+URL = "account"
+name = "Account"
+weight = 8
+
+[[menu.main]]
+URL = "video"
+name = "Video"
+weight = 9
+
+# footer menu
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
+[[menu.footer]]
+URL = "tools"
+name = "tools"
+weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/psh.png"
+# meta data
+author = "petasearch"
+description = "search online free course, cpa marketing, digital marketing, youtube marketing, seo, website design, programming, wordpress, html,, php, javascript, mobile application, ecommerce, woocommerce all in one place"
+# google tag manager
+google_tag_manager = "G-BGYG9XEFF3" # your id
+# google analitycs ID
+google_analitycs_id = "G-BGYG9XEFF3" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2021 [We Are Peta Engine](https://peta.goisp.net) All Rights Reserved"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/psh.png" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Start with petasearch. <br> Help your community to learn and share"
+image = "images/banner/illustration.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Get the top secured domain"
+description = "Domain Pricing & Registration. Find popular top-level domains at unmissable prices"
+[params.cta.button]
+enable = true
+label = "Search Domain Here"
+link = "https://peta.goisp.net/domain/"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "#"

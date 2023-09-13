@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta Data on Petasearch | An online blogsite</title>
+    <link>https://peta.goisp.net/categories/meta-data/</link>
+    <description>Recent content in Meta Data on Petasearch | An online blogsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://peta.goisp.net/categories/meta-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hosting package for the beginner</title>
+      <link>https://peta.goisp.net/hosting/beginner-hosting-pack/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/hosting/beginner-hosting-pack/</guid>
+      <description>Popular hosting services for the beginners.</description>
+    </item>
+    
+    <item>
+      <title>install android studio in Ubuntu 20.04</title>
+      <link>https://peta.goisp.net/blogs/how-to-install-android-studio-in-ubuntu-20-04/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/how-to-install-android-studio-in-ubuntu-20-04/</guid>
+      <description>We can install Android Studio in Ubuntu 20.04 using Android official repository.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Variables</title>
+      <link>https://peta.goisp.net/blogs/what-is-javascript-variables/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/what-is-javascript-variables/</guid>
+      <description>JavaScript Variables
+A variable is a &amp;ldquo;named storage&amp;rdquo; for data. In JavaScript we can use variables to store user data, goods information, messages etc.</description>
+    </item>
+    
+    <item>
+      <title>Knows how to call a function</title>
+      <link>https://peta.goisp.net/blogs/knows-how-to-call-a-function/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/knows-how-to-call-a-function/</guid>
+      <description>Knows how to call a function 4 ways you can call a function</description>
+    </item>
+    
+    <item>
+      <title>Knows that function is an Object</title>
+      <link>https://peta.goisp.net/blogs/knows-the-function-is-an-object/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/knows-the-function-is-an-object/</guid>
+      <description>Knows that function is an Object
+In JavaScript a function is a value.</description>
+    </item>
+    
+    <item>
+      <title>Lodash</title>
+      <link>https://peta.goisp.net/blogs/what-is-lodash/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/what-is-lodash/</guid>
+      <description>Lodash
+Lodash is a JavaScript utility library you can depend on small files to keep footprint low.</description>
+    </item>
+    
+    <item>
+      <title>What is React</title>
+      <link>https://peta.goisp.net/blogs/react/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://peta.goisp.net/blogs/react/</guid>
+      <description>What is React
+React is a JavaScript library using to create user interface.</description>
+    </item>
+    
+  </channel>
+</rss>
