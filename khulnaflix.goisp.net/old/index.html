@@ -1,0 +1,308 @@
+<!doctype html>
+<html amp lang="en">
+  <head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+<title>Khulnaflix - Largest FTP Worldwide</title>
+<link rel="canonical" href="https://amp.dev/documentation/guides-and-tutorials/start/create/basic_markup/">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+
+<script async custom-element="amp-brid-player" src="https://cdn.ampproject.org/v0/amp-brid-player-0.1.js"></script>
+  <link rel="canonical" href="https://khulnaflix.goisp.net/index.html">
+  
+<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+   
+  
+ 
+
+
+ 
+ 
+ 
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<link href="logo.png" rel="icon">
+  <link href="logo.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
+
+<link href="https://vjs.zencdn.net/7.20.1/video-js.css" rel="stylesheet" />
+<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
+  
+  <!-- In the head of your document with your other CSS includes... -->
+<!-- Video.js base CSS -->
+<!--link
+  href="https://unpkg.com/video.js@7/dist/video-js.min.css"
+  rel="stylesheet"
+/-->
+
+<!-- City -->
+<link
+  href="https://unpkg.com/@videojs/themes@1/dist/city/index.css"
+  rel="stylesheet"
+/>
+
+
+<!-- unpkg : use the latest version of Video.js -->
+<link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+
+<!-- unpkg : use a specific version of Video.js (change the version numbers as necessary) -->
+<script src="https://unpkg.com/video.js@7.10.2/dist/video.min.js"></script>
+
+<!-- cdnjs : use a specific version of Video.js (change the version numbers as necessary) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video-js.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video.min.js"></script>
+
+
+
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="theme-color" content="#663399"><meta data-react-helmet="true" name="keywords" content="HTML5 video, player, hls, adaptive-bitrate"><meta data-react-helmet="true" name="twitter:description" content="The world's most popular open source HTML5 player framework"><meta data-react-helmet="true" name="twitter:title" content="Video.js - Make your player yours"><meta data-react-helmet="true" name="twitter:creator" content="@videojs"><meta data-react-helmet="true" name="twitter:card" content="summary"><meta data-react-helmet="true" property="og:type" content="website"><meta data-react-helmet="true" property="og:description" content="The world's most popular open source HTML5 player framework"><meta data-react-helmet="true" property="og:title" content="Video.js - Make your player yours"><meta data-react-helmet="true" name="description" content="The world's most popular open source HTML5 player framework"><meta name="generator" content="Gatsby 4.14.1">
+
+
+
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<link rel="stylesheet" href="css/styles.css" />
+
+</head>
+
+
+
+
+<body>
+
+<!-- Side Navigation -->
+<nav class="w3-sidebar w3-bar-block w3-card w3-animate-left w3-center" style="display:none" id="mySidebar">
+    
+     <button class="w3-bar-item w3-button" onclick="w3_close()">Close <i class="fa fa-remove"></i></button>
+     
+     <br>
+  <a href="http://khulnaflix.net"><img src="logo.png" height="60px" alt="khulnaflix"></a>
+ 
+  <a href="http://10.224.225.226/" class="w3-bar-item w3-button">TV</a>
+  <a href="http://103.153.175.254/NAS1/Movies/" class="w3-bar-item w3-button">Movies</a>
+  <a href="http://103.153.175.254/NAS1/TV_Web_Series/" class="w3-bar-item w3-button">Series</a>
+  <a href="http://speed4you.net" class="w3-bar-item w3-button">speed4you</a>
+</nav>
+
+<!-- Header -->
+<header class="w3-container w3-theme w3-padding" id="myHeader">
+  <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> 
+  <div class="w3-center">
+  <h4><img src="logo.png" height="80px"></h4>
+  <h1 class="w3-xxxlarge w3-animate-bottom">KHULNAFLIX</h1>
+    <div class="w3-padding-32">
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">Watch More</button> 
+     <br>
+     <br>
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" style="font-weight:900"><a href="http://10.224.225.226">Live TV</a></button>
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" style="font-weight:900"><a href="http://103.153.175.254/NAS1/Movies/">Movies</a></button>
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" style="font-weight:900"><a href="http://103.153.175.254/NAS1/TV_Web_Series/">Series</a></button>
+      
+      <br><br>
+
+
+    </div>
+  </div>
+</header>
+
+<!--- khulnaflix latgest online ftp in United states, Bangladesh, United Kingdom and India. khulnaflix is streaming more than 322 country all over the world. khulnaflix is one of the biggest ftp server , live tv streaming and movies web series collection. why name khulnaflix? because this startup started from khulna area. no one knows from the beginning that this ftp server wilp be the one of the largest storage one day. but now this is 2023. khulnaflix is in now in position where no other service provider cannot beat now. so khulnaflix is the only one competitor of khulnaflix. enjoy unlimited. ---->
+
+<amp-video width="720" height="405" src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" poster="https://peach.blender.org/wp-content/uploads/bbb-splash.png" layout="responsive" controls rotate-to-fullscreen>
+    <div class="video-hint-container" id="video-hint">
+      <div class="video-hint">Rotate for fullscreen</div>
+    </div>
+    <div fallback>
+      <p>Your browser doesn't support HTML5 video.</p>
+    </div>
+  </amp-video>
+
+    <!--amp-brid-player data-partner="264" data-player="4144" data-video="13663" layout="responsive" width="480" height="270">
+</amp-brid-player-->
+  <!-- ## Playlist -->
+  <!--
+    Use the `data-playlist` attribute for displaying a playlist. For a complete list of the attributes, refer to the [official documentation](/content/amp-dev/documentation/components/reference/amp-brid-player-v0.1.md).
+  -->
+  <amp-brid-player data-partner="965" data-player="724" data-playlist="1220" layout="responsive" width="480" height="270">
+</amp-brid-player>
+
+
+<!-- Modal -->
+<div id="id01" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-top">
+      <header class="w3-container w3-theme-l1"> 
+        <span onclick="document.getElementById('id01').style.display='none'"
+        class="w3-button w3-display-topright">×</span>
+        <h2>Live tv, movies and series. <i class="fa fa-smile-o"></i>h2>
+      </header>
+      <div class="w3-padding">
+        <a href="http://10.224.225.226/" class="w3-bar-item w3-button">TV</a>
+        <a href="http://103.153.175.254/NAS1/Movies/" class="w3-bar-item w3-button">Movies</a>
+        <a href="http://103.153.175.254/NAS1/TV_Web_Series/" class="w3-bar-item w3-button">Series</a>
+        <a href="http://speed4you.net" class="w3-bar-item w3-button">SpeedNet</a>
+        <a href="http://cinemabazar.net/" class="w3-bar-item w3-button">Cinemabazar</a>
+        <a href="http://103.153.175.254" class="w3-bar-item w3-button">Bokasoka</a>
+        <a href="https://noflix.live" class="w3-bar-item w3-button">Noflix</a>
+
+
+
+
+
+
+
+
+  
+
+      </div>
+     
+    </div>
+</div>
+
+
+
+
+
+
+
+<!--div--->
+    <!--H2>DAY SHIFT 2022</H2-->
+ <!--figure id="videoContainer" data-fullscreen="false">
+		<video id="video" controls preload="metadata">
+			<source src="http://file.khulnaflix.net/film/day%20shift%202022/Day.Shift.2022.WEBRip.x264-Dual.YG.mkv" type="video/mp4" 
+			poster="https://republicmonews.com/wp-content/uploads/2022/08/maxresdefault-46.jpg">
+			
+			<track label="English" kind="subtitles" srclang="en" src="subtitles/vtt/en.vtt" default>
+			<track label="Deutsch" kind="subtitles" srclang="de" src="subtitles/vtt/de.vtt">
+			<track label="Español" kind="subtitles" srclang="es" src="subtitles/vtt/sintel-es.vtt">
+		</video>
+		<div id="video-controls" class="controls" data-state="hidden">
+			<button id="playpause" type="button" data-state="play">Play/Pause</button>
+			<button id="stop" type="button" data-state="stop">Stop</button>
+			<div class="progress">
+				<progress id="progress" value="0" min="0">
+					<span id="progress-bar"></span>
+				</progress>
+			</div>
+			<button id="mute" type="button" data-state="mute">Mute/Unmute</button>
+			<button id="volinc" type="button" data-state="volup">Vol+</button>
+			<button id="voldec" type="button" data-state="voldown">Vol-</button>
+			<button id="fs" type="button" data-state="go-fullscreen">Fullscreen</button>
+			<button id="subtitles" type="button" data-state="subtitles">CC</button>
+		</div>
+	
+	</figure-->
+	
+	<!--/div--->
+
+
+
+<!-- Footer -->
+<footer class="w3-container w3-theme-dark w3-padding-16">
+  <p>Khulnaflix- Largest media server</p>
+  <p>Powered by <a href="https://goisp.net" target="_blank">GOISP</a></p>
+  <div style="position:relative;bottom:55px;" class="w3-tooltip w3-right">
+    <span class="w3-text w3-theme-light w3-padding">Go To Top</span>    
+    <a class="w3-text-white" href="#myHeader"><span class="w3-xlarge">
+    <i class="fa fa-chevron-circle-up"></i></span></a>
+  </div>
+</footer>
+
+<!-- Script for Sidebar, Tabs, Accordions, Progress bars and slideshows -->
+<script>
+// Side navigation
+function w3_open() {
+  var x = document.getElementById("mySidebar");
+  x.style.width = "100%";
+  x.style.fontSize = "40px";
+  x.style.paddingTop = "10%";
+  x.style.display = "block";
+}
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+
+// Tabs
+function openCity(evt, cityName) {
+  var i;
+  var x = document.getElementsByClassName("city");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  var activebtn = document.getElementsByClassName("testbtn");
+  for (i = 0; i < x.length; i++) {
+    activebtn[i].className = activebtn[i].className.replace(" w3-dark-grey", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " w3-dark-grey";
+}
+
+var mybtn = document.getElementsByClassName("testbtn")[0];
+mybtn.click();
+
+// Accordions
+function myAccFunc(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// Slideshows
+var slideIndex = 1;
+
+function plusDivs(n) {
+  slideIndex = slideIndex + n;
+  showDivs(slideIndex);
+}
+
+function showDivs(n) {
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length} ;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+
+showDivs(1);
+
+// Progress Bars
+function move() {
+  var elem = document.getElementById("myBar");   
+  var width = 5;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (width == 100) {
+      clearInterval(id);
+    } else {
+      width++; 
+      elem.style.width = width + '%'; 
+      elem.innerHTML = width * 1  + '%';
+    }
+  }
+}
+</script>
+
+  <script src="https://vjs.zencdn.net/7.20.2/video.min.js"></script>
+<script src="js/video-player.js"></script>
+
+</body>
+</html>
